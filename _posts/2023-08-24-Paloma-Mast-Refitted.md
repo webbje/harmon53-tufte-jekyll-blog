@@ -24,7 +24,7 @@ on the pontoon. I don't think it has been stored with petrol in it but I could o
 
 Finally for this visit I refitted the gymbaled two-ring gas cooker back into the galley after a thorough clean although I won't be able to use it until 
 I have sorted out a new gas storage locker. I decided to leave the sails (four of them, in bags) in the front cabin for next time after Cameron has finished
-off his remaining work on the running rigging. I could sleep on Paloma at this point but there's no lighting other than my headtorch. 
+off his remaining work on the running rigging. I could sleep on Paloma at this point but there's no lighting other than my headtorch... I need to work out
+the best place for a heavy battery to be fitted from a safety and centre of gravity perspective... 
 
-Left the marina at four with the outboard and a list of other tools I'll need for the next visit.
 

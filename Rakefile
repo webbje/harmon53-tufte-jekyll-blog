@@ -12,6 +12,7 @@ task :generate do
     "source"      => ".",
     "destination" => "_site"
   })).process
+  system "cp -R _site/* /var/www/html"
 end
 
 
